@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Колупахо Даниио Олегович</title>
+<title>Колупахо Даниил Олегович</title>
 </head>
 <body>
 <h1>Hello, world!</h1>
